@@ -1,3 +1,6 @@
+🛑 Ce projet a été migré vers [Framagit](https://framagit.org/nathvh/java-telmi-simple-story-pack-creator).
+Ce dépôt est archivé et ne recevra plus de mises à jour.
+
 # Telmi Simple Story Pack Creator
 
 > **Note :** Ce projet est un outil personnel et n'est pas affilié à [Telmi](https://telmi.fr/). Il est possible que l'outil ne fonctionne pas correctement ou que les fichiers générés ne soient pas corrects. Utilisez-le à vos risques et périls.
